@@ -27,4 +27,4 @@ Replace `/path/to/your/script.sh` with the actual path to your script file. Reme
 
 ## License
 
-No license. Knowledge for writing these has been found on the internet. Might even contain copy/paste blocks of code.
+Choose Freedom. Do What the Fuck You Want to. See [LICENSE](./LICENSE) for more details or visit [WTFPL](http://www.wtfpl.net/) website.
